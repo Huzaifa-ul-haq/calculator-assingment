@@ -1,2 +1,2 @@
 # calculator-assingment
-this is my first assingment
+this is my first Assingment
